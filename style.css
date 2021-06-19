@@ -15,6 +15,11 @@ body {
   background-color: #d69829;
 }
 
+.alert {
+  background-color: #d69829;
+  color: white;
+}
+
 .btn:hover {
   background-color: #292929;
   color: white;
