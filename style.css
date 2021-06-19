@@ -28,3 +28,8 @@ body {
 section {
     padding-top: 5rem;
 }
+
+.gallery-img {
+  width: 100%;
+  padding-bottom: 2rem;
+}
